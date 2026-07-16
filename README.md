@@ -13,9 +13,9 @@
 - **[File (Field) Paths](https://www.drupal.org/project/filefield_paths)**. 29,000+ Drupal sites.
 - **[Custom Formatters](https://www.drupal.org/project/custom_formatters)**. 3,000+ Drupal sites.
 
-### Sponsor
+## Sponsors
 
-If your project depends on this work, [sponsor it on GitHub](https://github.com/sponsors/Decipher).
+If your project depends on this work, [become a sponsor](https://github.com/sponsors/Decipher). See all sponsors in [SPONSORS.md](./SPONSORS.md).
 
 ---
 
